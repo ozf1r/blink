@@ -17,7 +17,7 @@ constants MIN and MAX determine the duration of each blink
 
 # hardware
 
-You will need a LED connected to the output, or use the built in LED on the Arduino
+You will need a LED connected to the output, or use the builtin LED on the Arduino
 
 You will need some sort of voltage divider connected to the analog input
 
